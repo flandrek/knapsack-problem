@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01背包/01背包.iml" filepath="$PROJECT_DIR$/01背包/01背包.iml" />
+      <module fileurl="file://$PROJECT_DIR$/二维费用背包/二维费用背包.iml" filepath="$PROJECT_DIR$/二维费用背包/二维费用背包.iml" />
+      <module fileurl="file://$PROJECT_DIR$/分组背包/分组背包.iml" filepath="$PROJECT_DIR$/分组背包/分组背包.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多重背包/多重背包.iml" filepath="$PROJECT_DIR$/多重背包/多重背包.iml" />
+      <module fileurl="file://$PROJECT_DIR$/完全背包/完全背包.iml" filepath="$PROJECT_DIR$/完全背包/完全背包.iml" />
+      <module fileurl="file://$PROJECT_DIR$/有依赖的背包/有依赖的背包.iml" filepath="$PROJECT_DIR$/有依赖的背包/有依赖的背包.iml" />
+      <module fileurl="file://$PROJECT_DIR$/混合背包/混合背包.iml" filepath="$PROJECT_DIR$/混合背包/混合背包.iml" />
+      <module fileurl="file://$PROJECT_DIR$/背包求方案数/背包求方案数.iml" filepath="$PROJECT_DIR$/背包求方案数/背包求方案数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/背包问题.iml" filepath="$PROJECT_DIR$/背包问题.iml" />
+    </modules>
+  </component>
+</project>
